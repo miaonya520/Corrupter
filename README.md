@@ -4,6 +4,7 @@
 
 Corrupter 是一个用 Python 编写的命令行工具，旨在精确、可复现地模拟各种文件损坏场景。无论您是需要测试数据的鲁棒性，还是想创造独特的“故障艺术”（Glitch Art），Corrupter 都能为您提供强大而灵活的支持。
 
+[![PyPI version](https://badge.fury.io/py/corrupter.svg)](https://badge.fury.io/py/corrupter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
@@ -28,7 +29,7 @@ Corrupter 是一个用 Python 编写的命令行工具，旨在精确、可复�
 您可以通过 `pip` 轻松安装 Corrupter：
 
 ```bash
-pip install corrupter-1.1.0-py3-none-any.whl
+pip install corrupter
 ```
 安装完成后，`corrupter` 命令将立即可用。
 
